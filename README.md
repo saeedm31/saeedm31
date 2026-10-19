@@ -14,7 +14,7 @@ Same skills, new problems.
 | ⚖️ [LexTreeRAG](https://github.com/saeedm31/LexTreeRAG) | Ask questions about EU law, get answers with sources from live EUR-Lex | Claude API, SPARQL, Streamlit | [Docs](https://saeedm31.github.io/LexTreeRAG/) |
 | 📄 [RAG_V1](https://github.com/saeedm31/RAG_V1) | Chat with your own PDFs, privately — runs fully on your machine | Ollama, Llama 3.2, Streamlit, Docker | [Run locally](https://github.com/saeedm31/RAG_V1#-quick-start) |
 | 🔭 [Exoplanet classifier](https://github.com/saeedm31/AI-Classifies-FP-Transit-Exoplanets) | Flags false-positive planet signals in Kepler data | scikit-learn, Streamlit | [Live demo](https://ai-classifies-fp-transit-exoplanets.streamlit.app/) |
-| 🌦️ [Porto Weather](https://github.com/saeedm31/Porto_weather) | Weather data pipeline and dashboard | PostgreSQL, Flask, AWS | |
+| 🌦️ [Porto Weather](https://github.com/saeedm31/Porto_weather) | Climate dashboard: is today unusually warm compared with the 30-year normal? | PostgreSQL, Flask, Docker | [Self-host](https://github.com/saeedm31/Porto_weather#-run-it-on-your-own-server) |
 | 🇵🇹 [pordic](https://github.com/saeedm31/pordic) | LLM translator for European Portuguese | OpenAI API | |
 | 🔐 [simple_chat](https://github.com/saeedm31/simple_chat) | One-to-one chat with end-to-end encryption | JavaScript | |
 
