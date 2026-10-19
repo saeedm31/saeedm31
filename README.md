@@ -11,7 +11,7 @@ Same skills, new problems.
 
 | Project | What it does | Built with | Try it |
 |---|---|---|---|
-| ⚖️ [LexTreeRAG](https://github.com/saeedm31/LexTreeRAG) | Ask questions about EU law, get answers with sources from live EUR-Lex | Claude, AWS Bedrock, Streamlit | [Docs](https://saeedm31.github.io/LexTreeRAG/) |
+| ⚖️ [LexTreeRAG](https://github.com/saeedm31/LexTreeRAG) | Ask questions about EU law, get answers with sources from live EUR-Lex | Claude API, SPARQL, Streamlit | [Docs](https://saeedm31.github.io/LexTreeRAG/) |
 | 📄 [RAG_V1](https://github.com/saeedm31/RAG_V1) | Chat with your own PDFs, fully local | Ollama, Streamlit, Docker | [Live demo](https://ragdocai.streamlit.app/) |
 | 🔭 [Exoplanet classifier](https://github.com/saeedm31/AI-Classifies-FP-Transit-Exoplanets) | Flags false-positive planet signals in Kepler data | scikit-learn, Streamlit | [Live demo](https://ai-classifies-fp-transit-exoplanets.streamlit.app/) |
 | 🌦️ [Porto Weather](https://github.com/saeedm31/Porto_weather) | Weather data pipeline and dashboard | PostgreSQL, Flask, AWS | |
